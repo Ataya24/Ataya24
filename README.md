@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi, I’m Ataya 👋<br>I’m a Software Engineering student from Indonesia. I’m passionate about history, programming, politics, free markets, geopolitics, and video games.</h4>
+<h4 align="left">Hi, I’m Ataya 👋<br>I’m a Software Engineering student from Indonesia. I’m passionate about history, programming, politics, geopolitics, and video games.</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering student<br>💻 Interested in programming & software development<br>🌍 Enthusiastic about history, politics, free markets, and geopolitics<br>🎮 Big fan of video games</p>
+<p align="left">🎓 Software Engineering student<br>💻 Interested in programming & software development<br>🌍 Enthusiastic about history, politics, and geopolitics<br>🎮 Big fan of video games</p>
 
 ###
 
