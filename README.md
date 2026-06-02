@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hi, I’m Ataya 👋<br>I’m a SE student. I’m passionate about history, programming, politics, geopolitics, and video games.</h4>
+<h4 align="left">Hi, I’m Ataya 👋<br>I’m a Front End Enthusiast | Website Developer. I’m passionate about history, programming, politics, and video games.</h4>
 
 ###
 
