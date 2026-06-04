@@ -16,7 +16,7 @@
 
 <div align="center">
   
-  🎓 **Software Engineering** student
+  🎓 **SE** student graduate
   
   💻 Interested in **programming & software development**
   
