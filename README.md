@@ -68,15 +68,6 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
-</div>
-
-###
-
 <div align="center">
   
   <i>Let's connect and build something amazing together!</i>
