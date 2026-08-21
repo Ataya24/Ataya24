@@ -16,7 +16,7 @@
   
   💻 Interested in **programming & software development**
   
-  🌍 Enthusiastic about **history, politics, and geopolitics**
+  🌍 Enthusiastic about **history**
   
   🎮 Big fan of **video games**
 
