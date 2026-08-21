@@ -3,11 +3,7 @@
 ###
 
 <p align="center">
-  <i>Front End Enthusiast | Website Developer</i>
-</p>
-
-<p align="center">
-  Passionate about history, programming, politics, and video games.
+  <i>Full Stack Developer</i>
 </p>
 
 ###
