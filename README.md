@@ -80,7 +80,7 @@
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ataya-nafis-rizqulah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-                                     badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ataya-nafis-rizqulah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-                                     badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/taynfsrzqlh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"          alt="Instagram" /></a>
   <a href="atayanafisrizqulah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
