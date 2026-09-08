@@ -72,8 +72,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" title="Figma" />
   <img width="14" />
-  <img src="https://img.shields.io/badge/Ms_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" height="28" alt="ms office" title="Ms Office" />
-
+  
 </div>
 
 <br/>
