@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ataya 👋</h1>
+<h1 align="center">Hi, I'm Ataya</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">✨ About Me</h2>
+<h2 align="center">About Me</h2>
 
 <div align="center">
   
@@ -16,10 +16,6 @@
   
   💻 Interested in **programming & software development**
   
-  🌍 Enthusiastic about **history**
-  
-  🎮 Big fan of **video games**
-
 </div>
 
 ###
