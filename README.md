@@ -78,14 +78,6 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ataya&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ataya&hide_border=true" height="165" alt="github streak" />
-</p>
-
-<br/>
-
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ataya-nafis-rizqulah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
