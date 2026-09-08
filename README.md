@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ataya 👋</h1>
+<h1 align="center">Hi, I'm Ataya</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+clean+%26+modern+web+apps" alt="Typing SVG" />
@@ -80,9 +80,9 @@
 
 <h2 align="center">📫 Let's Connect</h2>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ataya-nafis-rizqulah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-                                     badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/taynfsrzqlh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"          alt="Instagram" /></a>
+  <a href="atayanafisrizqulah@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 <br/>
