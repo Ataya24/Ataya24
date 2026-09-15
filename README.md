@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+React+%7C+Next.js;Building+clean+%26+modern+web+apps" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open_to_work-brightgreen?style=flat-square" alt="status" />
-  <img src="https://img.shields.io/badge/based_in-Indonesia-orange?style=flat-square" alt="location" />
-</p>
-
 <br/>
 
 <h2 align="center">About Me</h2>
