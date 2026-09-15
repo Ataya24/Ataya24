@@ -9,7 +9,7 @@
 <h2 align="center">About Me</h2>
 <div align="center">
 
-  🎓 &nbsp;**SE** student graduate
+  🎓 &nbsp;**SE** student 
   
   💻 &nbsp;Interested in **programming & software development**
   
