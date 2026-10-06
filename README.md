@@ -55,7 +55,7 @@ const ataya = {
     <td><b>Database</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql&perline=8" alt="mysql" />
-      <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="sql server management studio" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="sql server management studio" title="SQL Server Management Studio" />
     </td>
   </tr>
   <tr>
