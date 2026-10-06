@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,100:06B6D4&text=Ataya%20Nafis%20Rizqulah&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descSize=18&animation=fadeIn" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366F1,100:06B6D4&text=Ataya%20Nafis%20Rizqulah&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20C%20S%20Student&descAlignY=60&descSize=18&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+full-stack+developer;%24+stack+%E2%86%92+PHP+%7C+Laravel+%7C+React+%7C+Next.js;%24+building+clean+%26+scalable+web+apps" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 ```ts
 const ataya = {
   role: "Full Stack Developer",
-  education: "Computer Science Student",
+  education: "CS Student",
   focus: ["Web Development", "Clean Architecture", "UI/UX Implementation"],
   currentlyLearning: ["Next.js", "TypeScript", "System Design"],
   philosophy: "Build clean, ship fast, keep learning.",
