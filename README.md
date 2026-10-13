@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ataya 👋</h1>
+  <h1>Hi, I'm Ataya</h1>
   <p><strong>Web & Desktop Application Developer</strong></p>
   <p>
     <a href="https://github.com/Ataya24">
