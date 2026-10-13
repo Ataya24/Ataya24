@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ataya</h1>
+  <h1>Hi, I'm Ataya 👋</h1>
   <p><strong>Web & Desktop Application Developer</strong></p>
   <p>
     <a href="https://github.com/Ataya24">
@@ -51,9 +51,8 @@ I am interested in web and desktop application development, with experience usin
 
 ## Let's Connect
 
-<p>
-  <a href="https://github.com/Ataya24">GitHub</a>
-</p>
+- Email: atayanafisrizqulah@gmail.com
+- LinkedIn: [Ataya Nafis Rizqulah](https://www.linkedin.com/in/ataya-nafis-rizqulah)
 
 <div align="center">
   <sub>Building useful digital experiences, one project at a time.</sub>
