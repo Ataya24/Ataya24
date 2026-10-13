@@ -35,11 +35,9 @@ Collaboration · Open Source · Internship
 
 ## 📊 GitHub Stats
 
-<details open>
-<summary><b>Lihat statistik</b></summary>
-<br/>
+<div align="center">
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ataya&show_icons=true&theme=github_dark&hide_border=false&border_radius=12&title_color=10B981&icon_color=10B981" />
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ataya&show_icons=true&theme=default&hide_border=false&border_radius=12&title_color=059669&icon_color=059669" alt="GitHub stats" />
@@ -49,6 +47,15 @@ Collaboration · Open Source · Internship
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ataya&layout=compact&theme=default&hide_border=false&border_radius=12&title_color=059669&langs_count=8" alt="Top languages" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ataya&starting_year=2024&theme=github-dark-blue&hide_border=false&border_radius=12&ring=10B981&fire=10B981&currStreakLabel=10B981" />
+    <img src="https://streak-stats.demolab.com?user=Ataya&starting_year=2024&theme=default&hide_border=false&border_radius=12&ring=059669&fire=059669&currStreakLabel=059669" alt="GitHub streak" />
+  </picture>
+</p>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ataya&theme=github-dark-blue&hide_border=false&border_radius=12&ring=10B981&fire=10B981&currStreakLabel=10B981" />
