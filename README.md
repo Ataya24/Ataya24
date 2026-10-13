@@ -29,14 +29,94 @@ I am interested in web and desktop application development, with experience usin
   <img src="https://skillicons.dev/icons?i=mysql,git,figma,visualstudio" alt="Databases and tools" />
 </p>
 
-| Skill | Level | Skill | Level | Skill | Level |
-|:---|:---:|:---|:---:|:---|:---:|
-| PHP | Advanced | Laravel | Intermediate | TypeScript | Intermediate |
-| Next.js | Intermediate | React | Intermediate | Node.js | Intermediate |
-| Bootstrap | Advanced | Tailwind CSS | Advanced | HTML | Advanced |
-| CSS | Advanced | JavaScript | Intermediate | Visual Basic (VB.NET) | Intermediate |
-| C# | Beginner | MySQL | Intermediate | Microsoft SQL Server | Intermediate |
-| Git | Intermediate | Microsoft Office | Intermediate | Figma | Beginner |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>PHP</strong><br />
+        <img src="https://img.shields.io/badge/Advanced-2563EB?style=flat-square" alt="PHP Advanced" />
+      </td>
+      <td align="center" width="33%">
+        <strong>Laravel</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Laravel Intermediate" />
+      </td>
+      <td align="center" width="33%">
+        <strong>TypeScript</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="TypeScript Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Next.js</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Next.js Intermediate" />
+      </td>
+      <td align="center">
+        <strong>React</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="React Intermediate" />
+      </td>
+      <td align="center">
+        <strong>Node.js</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Node.js Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Bootstrap</strong><br />
+        <img src="https://img.shields.io/badge/Advanced-2563EB?style=flat-square" alt="Bootstrap Advanced" />
+      </td>
+      <td align="center">
+        <strong>Tailwind CSS</strong><br />
+        <img src="https://img.shields.io/badge/Advanced-2563EB?style=flat-square" alt="Tailwind CSS Advanced" />
+      </td>
+      <td align="center">
+        <strong>HTML</strong><br />
+        <img src="https://img.shields.io/badge/Advanced-2563EB?style=flat-square" alt="HTML Advanced" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>CSS</strong><br />
+        <img src="https://img.shields.io/badge/Advanced-2563EB?style=flat-square" alt="CSS Advanced" />
+      </td>
+      <td align="center">
+        <strong>JavaScript</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="JavaScript Intermediate" />
+      </td>
+      <td align="center">
+        <strong>Visual Basic (VB.NET)</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Visual Basic Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>C#</strong><br />
+        <img src="https://img.shields.io/badge/Beginner-9CA3AF?style=flat-square" alt="C# Beginner" />
+      </td>
+      <td align="center">
+        <strong>MySQL</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="MySQL Intermediate" />
+      </td>
+      <td align="center">
+        <strong>Microsoft SQL Server</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Microsoft SQL Server Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Git</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Git Intermediate" />
+      </td>
+      <td align="center">
+        <strong>Microsoft Office</strong><br />
+        <img src="https://img.shields.io/badge/Intermediate-6B7280?style=flat-square" alt="Microsoft Office Intermediate" />
+      </td>
+      <td align="center">
+        <strong>Figma</strong><br />
+        <img src="https://img.shields.io/badge/Beginner-9CA3AF?style=flat-square" alt="Figma Beginner" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## GitHub Stats
 
