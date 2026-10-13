@@ -9,10 +9,6 @@ Full-stack developer and CS student who enjoys turning real-world workflows into
 | UI Libraries | DataTables, Font Awesome |
 | Tools | Git, GitHub |
 
-## 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150" />
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="150" />
-
 ## 🚀 Currently
 - 🔨 Building and improving management-system projects
 - 📚 Studying Computer Science
