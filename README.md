@@ -1,13 +1,22 @@
-# Hi, I'm Ataya 
+## 👨‍💻 About Me
+Full-stack developer and CS student who enjoys turning real-world workflows into simple, usable web apps.
 
-Full-stack developer & CS student. I build practical web apps with PHP and vanilla JavaScript.
+## 🛠️ Tech Stack
+| Area | Tools |
+|------|-------|
+| Backend | PHP, PDO, MySQL |
+| Frontend | Vanilla JavaScript, Tailwind CSS |
+| UI Libraries | DataTables, Font Awesome |
+| Tools | Git, GitHub |
 
-### Tech Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+## 📊 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="150" />
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" height="150" />
 
-### Contact
-- 📫 atayanafisrizqulah@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+## 🚀 Currently
+- 🔨 Building and improving management-system projects
+- 📚 Studying Computer Science
+- 🌱 Learning better architecture and documentation practices
+
+## 📫 Reach Me
+[Email](mailto:your.email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile)
